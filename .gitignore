@@ -3,3 +3,4 @@
 *.o
 swig/module.py
 swig/module_wrap.c
+.DS_Store
